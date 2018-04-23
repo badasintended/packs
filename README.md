@@ -1,2 +1,2 @@
 # datapacks
-A repository of Minecraft Data Pack by DeimosBTG
+A repository of Minecraft Data Packs by DeimosBTG
