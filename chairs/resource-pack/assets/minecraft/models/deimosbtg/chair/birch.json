@@ -1,0 +1,6 @@
+{
+	"parent": "deimosbtg/chair/template",
+	"textures": {
+		"0": "blocks/birch_planks"
+	}
+}
