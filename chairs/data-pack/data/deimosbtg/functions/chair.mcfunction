@@ -1,12 +1,4 @@
-# Chairs
-#give @p minecraft:command_block{display:{"Name":"{\"text\":\"Oak Chair\",\"italic\":false}"},BlockEntityTag:{auto:1b,Command:"function deimosbtg:chair/place_oak"}} 1
-#give @p minecraft:command_block{display:{"Name":"{\"text\":\"Birch Chair\",\"italic\":false}"},BlockEntityTag:{auto:1b,Command:"function deimosbtg:chair/place_birch"}} 1
-#give @p minecraft:command_block{display:{"Name":"{\"text\":\"Spruce Chair\",\"italic\":false}"},BlockEntityTag:{auto:1b,Command:"function deimosbtg:chair/place_spruce"}} 1
-#give @p minecraft:command_block{display:{"Name":"{\"text\":\"Jungle Chair\",\"italic\":false}"},BlockEntityTag:{auto:1b,Command:"function deimosbtg:chair/place_jungle"}} 1
-#give @p minecraft:command_block{display:{"Name":"{\"text\":\"Acacia Chair\",\"italic\":false}"},BlockEntityTag:{auto:1b,Command:"function deimosbtg:chair/place_acacia"}} 1
-#give @p minecraft:command_block{display:{"Name":"{\"text\":\"Dark Oak Chair\",\"italic\":false}"},BlockEntityTag:{auto:1b,Command:"function deimosbtg:chair/place_dark_oak"}} 1
-#give @p minecraft:command_block{display:{"Name":"{\"text\":\"Cobblestone Chair\",\"italic\":false}"},BlockEntityTag:{auto:1b,Command:"function deimosbtg:chair/place_cobblestone"}} 1
-
+# Chair
 give @p player_head{SkullOwner:{Id:"25c0d85f-f21d-43a7-a882-f4a0219ab712",Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTBmOTZkOWI3MjMwM2YzNzI3OWZhOWMyY2MyM2VlNmY4ZGI2ODIzNjg1YjYyNmI1NmVkNTNiNjc0YjZiMCJ9fX0="}]}},display:{Name:"{\"text\":\"Oak Chair\"}"}}
 give @p player_head{SkullOwner:{Id:"3e6c5dae-e682-44a9-8709-3e1b42309603",Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjQyNzRhY2Y5NDYzNWE4NzNkZjA5Njg4MmEyNjYxZGNkNDQzMjgyZGIwODg4MGM3NjU1OTQ3YzRjYzY1ZCJ9fX0="}]}},display:{Name:"{\"text\":\"Birch Chair\"}"}}
 give @p player_head{SkullOwner:{Id:"dc0540a2-e511-4e0c-b513-3020b20e8a70",Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTBlYjE5NjhmZjJkYTZiY2E2OGY1OWI2MTExNzEzZTA4ZDIyNDk5MjI5ZTEwODY0NDljYmE1MGY3ZGU2NGFlIn19fQ=="}]}},display:{Name:"{\"text\":\"Spruce Chair\"}"}}
