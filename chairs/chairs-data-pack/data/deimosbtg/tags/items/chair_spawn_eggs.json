@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:blaze_spawn_egg",
+    "minecraft:cave_spider_spawn_egg",
+    "minecraft:chicken_spawn_egg",
+    "minecraft:cod_mob_spawn_egg",
+    "minecraft:cow_spawn_egg",
+    "minecraft:creeper_spawn_egg",
+    "minecraft:dolphin_spawn_egg"
+  ]
+}

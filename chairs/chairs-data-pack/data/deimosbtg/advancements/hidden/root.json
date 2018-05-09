@@ -1,0 +1,15 @@
+{
+  "show_toast": false,
+  "announce_to_chat": false,
+  "hidden": true,
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "impossible"
+    ]
+  ]
+}

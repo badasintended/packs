@@ -1,0 +1,18 @@
+{
+  "type": "crafting_shaped",
+  "group": "chairs",
+  "pattern": [
+    "#  ",
+    "###",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:dark_oak_planks"
+    }
+  },
+  "result": {
+    "item": "minecraft:cod_mob_spawn_egg",
+    "count": 3
+  }
+}
