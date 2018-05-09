@@ -1,9 +1,9 @@
 {
-	"parent": "deimosbtg:hidden/root",
-	"show_toast": false,
+  "parent": "deimosbtg:hidden/root",
+  "show_toast": false,
   "announce_to_chat": false,
   "hidden": true,
-	"rewards": {"function": "deimosbtg:chair/no_nbt_craft"},
+	"rewards": {"function": "deimosbtg:chairs/no_nbt_craft"},
 	"criteria": {
 		"craft_chair": {
 			"trigger": "minecraft:inventory_changed",
@@ -12,5 +12,5 @@
 			}
 		}
 	},
-	"requirements": [["craft_chair"]]
+  "requirements": [["craft_chair"]]
 }

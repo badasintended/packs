@@ -1,4 +1,9 @@
-
+```
+	Chairs || 1.2-B
+	** Changed function names from deimosbtg:chair/* to deimosbtg:chairs/*
+	** Fixed chairs model and texture from 1.1-F, sorry (:
+	** (Maybe) Performance optimization
+	
 	Chairs || 1.2-A
 	++ Added crafting recipes!, TOTALLY SURVIVAL COMPATIBLE!!!
 	++ Added more commands!!
@@ -23,3 +28,4 @@
 	
 	Chairs || 1.0-C
 	++ Initial release
+```

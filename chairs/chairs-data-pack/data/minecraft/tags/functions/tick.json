@@ -1,6 +1,4 @@
 {
 	"replace": false,
-	"values": [
-		"deimosbtg:chair/init_tick"
-	]
+	"values": ["deimosbtg:chairs/init_tick"]
 }
