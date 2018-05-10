@@ -1,7 +1,11 @@
 ```
+	Chairs || 1.2-C
+	++ Crafting recipes now can obtained if you have the material
+	++ Added new function to remove all chairs
+	
 	Chairs || 1.2-B
 	** Changed function names from deimosbtg:chair/* to deimosbtg:chairs/*
-	** Fixed chairs model and texture from 1.1-F, sorry (:
+	** (Maybe) Fixed chairs model and texture from 1.1-F
 	** (Maybe) Performance optimization
 	
 	Chairs || 1.2-A

@@ -1,4 +1,5 @@
 gamerule commandBlockOutput false
+gamerule sendCommandFeedback false
 scoreboard objectives add y_rotation dummy
 scoreboard objectives add has_remover dummy
 scoreboard objectives add place_head minecraft.used:minecraft.player_head

@@ -3,13 +3,7 @@
   "announce_to_chat": false,
   "hidden": true,
   "criteria": {
-    "impossible": {
-      "trigger": "minecraft:impossible"
-    }
+    "impossible": {"trigger": "minecraft:impossible"}
   },
-  "requirements": [
-    [
-      "impossible"
-    ]
-  ]
+  "requirements": [["impossible"]]
 }

@@ -74,7 +74,11 @@
              hundred(or thousand) in a room, so it usually doesn't lag your PC... unless youre in a potato.
      7.   Why llamas?
           >> Hey hey, that is not an issue. I just like them.
-   
+     >> To fix errors, try type "/function deimosbtg:chairs/reset".
+     >> To remove all chairs, type "/function deimosbtg:chairs/remove_all" and then click yes,
+        or type "/function deimosbtg:chairs/force_remove_all" to remove without confirmation.
+
+
   That's for now. Sorry for the bad English and enjoy building!
   stay tuned on https://minecraft.curseforge.com/projects/chairs
   and https://github.com/deimosbtg/packs for other minecraft creations!
