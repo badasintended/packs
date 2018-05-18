@@ -7,11 +7,11 @@ execute at @e[type=minecraft:bat,name="Chair Remover"] if entity @e[type=armor_s
 execute at @e[type=minecraft:bat,name="Chair Remover"] if entity @e[type=armor_stand,tag=oak,distance=..0.62,limit=1] run give @p[distance=..5,gamemode=!creative] player_head{SkullOwner:{Id:"25c0d85f-f21d-43a7-a882-f4a0219ab712",Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTBmOTZkOWI3MjMwM2YzNzI3OWZhOWMyY2MyM2VlNmY4ZGI2ODIzNjg1YjYyNmI1NmVkNTNiNjc0YjZiMCJ9fX0="}]}},display:{Name:"{\"text\":\"Oak Chair\"}"}}
 execute at @e[type=minecraft:bat,name="Chair Remover"] if entity @e[type=armor_stand,tag=spruce,distance=..0.62,limit=1] run give @p[distance=..5,gamemode=!creative] player_head{SkullOwner:{Id:"dc0540a2-e511-4e0c-b513-3020b20e8a70",Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTBlYjE5NjhmZjJkYTZiY2E2OGY1OWI2MTExNzEzZTA4ZDIyNDk5MjI5ZTEwODY0NDljYmE1MGY3ZGU2NGFlIn19fQ=="}]}},display:{Name:"{\"text\":\"Spruce Chair\"}"}}
 
-# Give the remover bat spawn egg to the player again
-execute at @e[type=minecraft:bat,name="Chair Remover"] run give @p[distance=..5,gamemode=!creative] minecraft:bat_spawn_egg{display:{Name:"{\"text\":\"Chair Remover\"}"},EntityTag:{NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,CustomName:"{\"text\":\"Chair Remover\"}",ActiveEffects:[{Id:14b,Amplifier:0b,Duration:100,ShowParticles:0b}]}}
+# Give the remover bat spawn egg to the player again (disabled, now you need to craft it)
+# execute at @e[type=minecraft:bat,name="Chair Remover"] run give @p[distance=..5,gamemode=!creative] minecraft:bat_spawn_egg{display:{Name:"{\"text\":\"Chair Remover\"}"},EntityTag:{NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,CustomName:"{\"text\":\"Chair Remover\"}",ActiveEffects:[{Id:14b,Amplifier:0b,Duration:100,ShowParticles:0b}]}}
 
 # Kill the chair
-execute at @e[type=minecraft:bat,name="Chair Remover"] run kill @e[type=armor_stand,tag=armorchair,distance=..0.62]
+execute at @e[type=minecraft:bat,name="Chair Remover"] run kill @e[type=armor_stand,tag=armorchair,distance=..0.62,limit=1]
 execute at @e[type=minecraft:bat,name="Chair Remover"] run tp @e[type=llama,tag=llamachair,distance=..0.8,limit=1] ~ ~-500 ~
 
 # Teleport the remover bats and kill them

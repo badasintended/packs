@@ -1,0 +1,22 @@
+{
+  "parent": "deimosbtg:hidden/root",
+  "show_toast": false,
+  "announce_to_chat": false,
+  "hidden": true,
+	"rewards": {
+    "function": "deimosbtg:chairs/replace"
+  },
+	"criteria": {
+		"place_chair": {
+			"trigger": "minecraft:placed_block",
+			"conditions": {
+				"block": "minecraft:player_head"
+			}
+		}
+	},
+  "requirements": [
+    [
+      "place_chair"
+      ]
+    ]
+}

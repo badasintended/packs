@@ -16,5 +16,8 @@ execute at @a run fill ~-5 ~-5 ~-5 ~5 ~5 ~5 command_block{auto:1,Command:"functi
 execute at @a run fill ~-5 ~-5 ~-5 ~5 ~5 ~5 command_block{auto:1,Command:"function deimosbtg:chairs/error_wall_head_dark_oak"} replace player_wall_head{Owner:{Id:"501e0826-366f-4caf-b866-f6273a853d61",Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGZkOTE3ZmQ1OTNhN2FjNWJkZmUxZmM2NWQzMjBkZjQ2MTFkYTQzMWYzZWE0ZjM0YzdhMTkwMjBmNTEyIn19fQ=="}]}}}
 execute at @a run fill ~-5 ~-5 ~-5 ~5 ~5 ~5 command_block{auto:1,Command:"function deimosbtg:chairs/error_wall_head_cobblestone"} replace player_wall_head{Owner:{Id:"ef92ccfc-c67e-43a1-b991-d08b727f4bcf",Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjAxNjFjODY5NGNjOGVjZmU2MzlkNzEwZTc3MjM5MzUyZDg2ZWUyYjZjNDBjZDRkYWVjMjFmNzk4ZGNlYTdjYSJ9fX0="}]}}}
 
-# Set the scoreboard to 0
-scoreboard players set @a place_head 0
+# revoke the advancement
+advancement revoke @a only deimosbtg:hidden/chairs/place
+
+# grant the advancement
+advancement grant @p[distance=0..5] only deimosbtg:chairs/place_a_chair
