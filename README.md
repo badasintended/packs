@@ -1,10 +1,13 @@
 # deimosbtg/packs
 
 This is a repository for my [Minecraft][mcl] Creations, including [Data Packs][dtl] and/or [Resource Packs][rpl]!
+
 There's the list for projects avaliable:
+
   |     | Project Name | Current Version | Date Started | Date Finished\* | Exeternal Download Link |
   | --- | :---: | :---: | :---: | :---: | :---: |
   | 1 | [Chairs][chr] | 1.2-C | 2018/4/27 | N/A | http://minecraft.curseforge.com/projects/chairs |
+  
   \* N/A means still in development
 
 There is also an [library used for creating common packs][lib] that include:
