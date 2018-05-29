@@ -17,6 +17,7 @@ There is also an [library used for creating common packs][lib] that include:
 4. [`minecraft:load` function tag][lft];
 5. [`minecraft:tick`function tag][tft]
 
+
 [mcl]: http://minecraft.net
 [dtl]: http://minecraft.gamepedia.com/data_pack
 [rpl]: http://minecraft.gamepedia.com/resource_pack
