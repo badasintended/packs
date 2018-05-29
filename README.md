@@ -1,1 +1,1 @@
-# The `chairs` Branch.
+# The `chairs` Branch of `deimosbtg/packs`
