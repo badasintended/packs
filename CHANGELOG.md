@@ -1,4 +1,4 @@
-```
+
 	Chairs || 1.2-E
 	++ Added an advancement
 
@@ -38,4 +38,3 @@
 
 	Chairs || 1.0-C
 	++ Initial release
-```
