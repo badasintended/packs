@@ -20,7 +20,7 @@ There is also an [library used for creating common packs][lib] that include:
 [mcl]: http://minecraft.net
 [dtl]: http://minecraft.gamepedia.com/data_pack
 [rpl]: http://minecraft.gamepedia.com/resource_pack
-[chr]: chairs
+[chr]: https://github.com/deimosbtg/packs/tree/chairs
 [lib]: .libraries
 [dho]: .libraries/resource_pack/assets/minecraft/models/item/diamond_hoe.json
 [drp]: .libraries/resource_pack/pack.mcmeta
