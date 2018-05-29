@@ -1,17 +1,23 @@
 ```
+	Chairs || 1.2-E
+	++ Added an advancement
+
+	Chairs || 1.2-D
+	** Fixed item name change
+
 	Chairs || 1.2-C
 	++ Crafting recipes now can obtained if you have the material
 	++ Added new function to remove all chairs
-	
+
 	Chairs || 1.2-B
 	** Changed function names from deimosbtg:chair/* to deimosbtg:chairs/*
 	** (Maybe) Fixed chairs model and texture from 1.1-F
 	** (Maybe) Performance optimization
-	
+
 	Chairs || 1.2-A
 	++ Added crafting recipes!, TOTALLY SURVIVAL COMPATIBLE!!!
 	++ Added more commands!!
-	
+
 	Chairs || 1.1-F
 	-- Now chairs item will not given to creative player when removed
 	** Changed some commands
@@ -20,16 +26,16 @@
 	** Now chairs item given when removed
 	** Road to SURVIVAL COMPATIBLE!
 	++ Added new functions
-	
+
 	Chairs || 1.1-D
 	-- Removed some unused function
-	
+
 	Chairs || 1.1-C
 	** Changed item to summon chairs from Command Blocks to Heads (thanks to [u/dragonflame86](http://reddit.com/u/dragonflame86))
 	-- Removed ability to summon flying chairs (what?)
 	-- Removed some unused function
 	++ Added changelog!
-	
+
 	Chairs || 1.0-C
 	++ Initial release
 ```
