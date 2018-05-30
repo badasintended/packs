@@ -1,7 +1,6 @@
 # The `master` Branch of `deimosbtg/packs`
 
-This is a repository for my [Minecraft][mcl] Creations, including [Data Packs][dtl] and/or [Resource Packs][rpl]!
-
+This is a repository for my [Minecraft][mcl] Creations, including [Data Packs][dtl] and/or [Resource Packs][rpl]!    
 There's the list for projects avaliable:
 
   |     | Project Name^ | Current Version | Date Started | Date Finished\* | Exeternal Download Link |
@@ -17,7 +16,6 @@ There is also an [library used for creating common packs][lib] that include:
 3. [Default Data Pack's `pack.mcmeta`][ddp] that contains default 1.13 Data Pack metadata;
 4. [`minecraft:load` function tag][lft];
 5. [`minecraft:tick`function tag][tft]
-
 
 [mcl]: http://minecraft.net
 [dtl]: http://minecraft.gamepedia.com/data_pack
