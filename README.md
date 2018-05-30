@@ -8,7 +8,7 @@ There's the list for projects avaliable:
   | --- | :---: | :---: | :---: | :---: | :---: |
   | 1 | [Chairs][chr] | 1.2-E | 4/27/2018 | N/A | http://minecraft.curseforge.com/projects/chairs |
 
-  \^ Projects located in different branches
+  \^ Projects located in different branches    
   \* N/A means still in development
 
 There is also an [library used for creating common packs][lib] that include:
