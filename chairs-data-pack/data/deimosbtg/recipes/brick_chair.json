@@ -1,0 +1,18 @@
+{
+  "type": "crafting_shaped",
+  "group": "chairs",
+  "pattern": [
+    "#  ",
+    "###",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:bricks"
+    }
+  },
+  "result": {
+    "item": "minecraft:pufferfish_spawn_egg",
+    "count": 4
+  }
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "deimosbtg:chairs/template",
+	"textures": {
+		"0": "blocks/nether_bricks"
+	}
+}

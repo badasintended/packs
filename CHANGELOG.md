@@ -1,4 +1,14 @@
 
+	Chairs || 1.3-A
+	++ Added stone (not cobblestone), sandstones (original, red), end stone (and brick), and purpur chairs!
+	++ Also brick, stone brick, nether bricks (original, red), quartz, and prismarines (original, brick, dark)!
+	++ Then obsidian, iron, gold, and diamond!!!1
+	++ And emerald.
+	?? Where's redstone? You can't make chair out of dust.
+	-- Removed chairs' armor stand hitboxes
+	-- Removed unused functions
+	** Moved model's namespace from 'minecraft:' to 'deimosbtg:' in the resource pack
+	
 	Chairs || 1.2-E
 	++ Added an advancement
 

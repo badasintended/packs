@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+	"minecraft:magma_cube_spawn_egg",
+	"minecraft:mooshroom_spawn_egg",
+	"minecraft:mule_spawn_egg",
+	"minecraft:ocelot_spawn_egg",
+	"minecraft:parrot_spawn_egg",
+	"minecraft:pig_spawn_egg",
+	"minecraft:phantom_spawn_egg",
+	"minecraft:polar_bear_spawn_egg",
+	"minecraft:pufferfish_spawn_egg"
+  ]
+}
