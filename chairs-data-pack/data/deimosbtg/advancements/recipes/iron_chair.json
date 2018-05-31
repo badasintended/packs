@@ -1,0 +1,19 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": ["deimosbtg:iron_chair"]
+  },
+  "criteria": {
+    "iron_chair": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [{"item": "minecraft:iron_ingot"}]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {"recipe": "deimosbtg:iron_chair"}
+    }
+  },
+  "requirements": [["iron_chair","has_the_recipe"]]
+}

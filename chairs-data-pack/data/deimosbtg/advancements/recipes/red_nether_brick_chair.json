@@ -1,0 +1,19 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": ["deimosbtg:red_nether_brick_chair"]
+  },
+  "criteria": {
+    "red_nether_bricks": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [{"item": "minecraft:red_nether_bricks"}]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {"recipe": "deimosbtg:red_nether_brick_chair"}
+    }
+  },
+  "requirements": [["red_nether_bricks","has_the_recipe"]]
+}

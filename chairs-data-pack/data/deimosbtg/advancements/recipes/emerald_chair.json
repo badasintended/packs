@@ -1,0 +1,19 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": ["deimosbtg:emerald_chair"]
+  },
+  "criteria": {
+    "emerald": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [{"item": "minecraft:emerald"}]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {"recipe": "deimosbtg:emerald_chair"}
+    }
+  },
+  "requirements": [["emerald","has_the_recipe"]]
+}

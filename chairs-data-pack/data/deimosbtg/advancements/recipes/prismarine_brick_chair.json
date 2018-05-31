@@ -1,0 +1,19 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": ["deimosbtg:prismarine_brick_chair"]
+  },
+  "criteria": {
+    "prismarine_bricks": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [{"item": "minecraft:prismarine_bricks"}]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {"recipe": "deimosbtg:prismarine_brick_chair"}
+    }
+  },
+  "requirements": [["prismarine_bricks","has_the_recipe"]]
+}
