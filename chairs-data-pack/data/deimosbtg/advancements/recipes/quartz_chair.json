@@ -1,19 +1,19 @@
 {
   "parent": "minecraft:recipes/root",
   "rewards": {
-    "recipes": ["deimosbtg:quatz_chair"]
+    "recipes": ["deimosbtg:quartz_chair"]
   },
   "criteria": {
-    "quatz": {
+    "quartz": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
-        "items": [{"item": "minecraft:quatz_block"}]
+        "items": [{"item": "minecraft:quartz_block"}]
       }
     },
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
-      "conditions": {"recipe": "deimosbtg:quatz_chair"}
+      "conditions": {"recipe": "deimosbtg:quartz_chair"}
     }
   },
-  "requirements": [["quatz","has_the_recipe"]]
+  "requirements": [["quartz","has_the_recipe"]]
 }

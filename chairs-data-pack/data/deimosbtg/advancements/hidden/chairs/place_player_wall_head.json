@@ -4,19 +4,19 @@
   "announce_to_chat": false,
   "hidden": true,
 	"rewards": {
-    "function": "deimosbtg:chairs/replace"
+    "function": "deimosbtg:chairs/replace_player_wall_head"
   },
 	"criteria": {
-		"place_chair": {
+		"place_chair_in_the_wall": {
 			"trigger": "minecraft:placed_block",
 			"conditions": {
-				"block": "minecraft:player_head"
+				"block": "minecraft:player_wall_head"
 			}
 		}
 	},
   "requirements": [
     [
-      "place_chair"
+      "place_chair_in_the_wall"
       ]
     ]
 }
