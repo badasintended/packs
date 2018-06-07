@@ -1,4 +1,4 @@
-##### Chairs || `1.3-B`    
+#### Chairs || `1.3-B`    
 `++` Added "forgotten" features, heh.    
 `**` Now, when you remove the chair, it will summon the corresponding item, not gives the closest player.    
 `**` Fixed quartz texture change in 18w22c    
