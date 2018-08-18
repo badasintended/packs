@@ -12,8 +12,8 @@ There's the list for projects avaliable:
 
 There is also an [library used for creating common packs][lib] that include:    
 1. [`diamond_hoe.json`][dho] with full damage predicates (1562 damages total) for creating custom items;    
-2. [Default Resource Pack's `pack.mcmeta`][drp] that contains default 1.13 Resource Pack metadata;    
-3. [Default Data Pack's `pack.mcmeta`][ddp] that contains default 1.13 Data Pack metadata;    
+2. [Default Resource Pack's `pack.mcmeta`][drp];   
+3. [Default Data Pack's `pack.mcmeta`][ddp];  
 4. [`minecraft:load` function tag][lft];    
 5. [`minecraft:tick`function tag][tft].    
 
