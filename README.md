@@ -5,7 +5,7 @@ There's the list for projects avaliable:
 
   |     | Project Name^ | Current Version | Date Started | Date Finished\* | Download Link |
   | --- | :---: | :---: | :---: | :---: | :---: |
-  | 1 | [Chairs][chr] | 2.0 | 4/27/2018 | N/A | [CurseForge](http://minecraft.curseforge.com/projects/chairs) - [DownGit]() |
+  | 1 | [Chairs][chr] | 2.0 | 4/27/2018 | N/A | [CurseForge](http://minecraft.curseforge.com/projects/chairs) - [DownGit](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/deimosbtg/packs/tree/chairs) |
 
   \^ Projects located in different branches    
   \* N/A means still in development
