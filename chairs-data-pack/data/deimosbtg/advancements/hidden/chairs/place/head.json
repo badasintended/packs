@@ -1,0 +1,20 @@
+{
+	"parent": "deimosbtg:hidden/root",
+	"rewards": {
+	"function": "deimosbtg:chairs/place"
+  },
+	"criteria": {
+		"place_head": {
+			"trigger": "minecraft:placed_block",
+			"conditions": {
+				"item": {
+					"item": "minecraft:player_head",
+					"nbt": "{isChairs:1b}"
+				}
+			}
+		}
+	},
+	"requirements": [
+		["place_head"]
+	]
+}

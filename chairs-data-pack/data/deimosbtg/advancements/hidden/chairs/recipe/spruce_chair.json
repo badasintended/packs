@@ -1,0 +1,14 @@
+{
+    "parent": "deimosbtg:hidden/root",
+    "rewards": {
+        "function": "deimosbtg:chairs/recipe/spruce_chair"
+    },
+    "criteria": {
+        "craft": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "deimosbtg:chairs/spruce_chair"
+            }
+        }
+    }
+}

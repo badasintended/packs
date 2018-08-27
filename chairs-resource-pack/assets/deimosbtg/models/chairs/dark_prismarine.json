@@ -1,6 +1,0 @@
-{
-	"parent": "deimosbtg:chairs/template",
-	"textures": {
-		"0": "blocks/dark_prismarine"
-	}
-}

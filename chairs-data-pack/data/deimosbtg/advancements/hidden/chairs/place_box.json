@@ -1,0 +1,19 @@
+{
+	"parent": "deimosbtg:hidden/root",
+	"rewards": {
+    "function": "deimosbtg:chairs/creative/place_box"
+  },
+	"criteria": {
+		"place_box": {
+			"trigger": "minecraft:placed_block",
+			"conditions": {
+				"item": {
+					"item": "minecraft:black_shulker_box"
+				}
+			}
+		}
+	},
+	"requirements": [
+		["place_box"]
+	]
+}

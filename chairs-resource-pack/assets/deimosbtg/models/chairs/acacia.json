@@ -1,6 +1,6 @@
 {
 	"parent": "deimosbtg:chairs/template",
 	"textures": {
-		"0": "blocks/acacia_planks"
+		"0": "block/acacia_planks"
 	}
 }
