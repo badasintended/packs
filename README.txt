@@ -13,7 +13,7 @@
   Chairs is a data pack for Minecraft 1.13 that brings chairs to vanilla Minecraft.
   (Ignore that.)
 
-  >> There is two folder inside the chairs-VER-X
+  >> There is two folder
      >> the chairs-data-pack and
      >> the crairs-resource-pack
      You need to install them.
