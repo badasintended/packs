@@ -52,7 +52,7 @@
 
   >> KNOWN ISSUES
      1.   Not worked!
-          >> Use the latest snapshot, try '/function deimosbtg:chairs/reset' to reset all advancement and scoreboard.
+          >> Use the latest version, try '/function deimosbtg:chairs/reset' to reset all advancement and scoreboard.
              It may conflict with other data/resource pack that uses minecraft:diamond_hoe as custom items..., so use it wisely.
              Or... you edit this data/resource pack to work with others! But yeah, there's a lot to change...
      2.   I'd given Steve's head???
