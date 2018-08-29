@@ -1,4 +1,7 @@
 
+    Chairs || 2.0.1
+	** Minor changes
+    
 	Chairs || 2.0
 	** Datapack rewritten from the scratch
 	** Better performance, i think

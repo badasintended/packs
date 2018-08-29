@@ -13,8 +13,5 @@
 				}
 			}
 		}
-	},
-	"requirements": [
-		["place_head"]
-	]
+	}
 }
