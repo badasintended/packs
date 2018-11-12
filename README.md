@@ -16,3 +16,4 @@ There's the list for projects avaliable:
 [dtl]: http://minecraft.gamepedia.com/data_pack
 [rpl]: http://minecraft.gamepedia.com/resource_pack
 [chr]: https://github.com/Deimograph/packs/tree/chairs
+[swi]: https://github.com/Deimograph/packs/tree/swiz
