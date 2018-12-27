@@ -6,7 +6,7 @@ There's the list for projects avaliable:
   |     | Project Name | Description | Download Link |
   | --- | :---: | :---: | :---: |
   | 1 | [Chairs][chr] 2.0 | Bring Chairs to Vanilla Minecraft! | [CurseForge](http://minecraft.curseforge.com/projects/chairs) - [DownGit](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Deimograph/packs/tree/chairs&rootDirectory=false) |
-  | 1 | [SWIZ][swi] 1.0 | Remake of [Exapunks][exa]' SWIZ function | [DownGit](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Deimograph/packs/tree/swiz/SWIZ&rootDirectory=false) |
+  | 2 | [SWIZ][swi] 1.0 | Remake of [Exapunks][exa]' SWIZ function | [DownGit](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Deimograph/packs/tree/swiz/SWIZ&rootDirectory=false) |
 
 [exa]: http://www.zachtronics.com/exapunks/
 [mcl]: http://minecraft.net
