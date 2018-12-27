@@ -1,4 +1,4 @@
-# The `master` Branch of `deimosbtg/packs`
+# The `master` Branch of `deimograph/packs`
 
 This is a repository for my [Minecraft][mcl] Creations, including [Data Packs][dtl] and/or [Resource Packs][rpl]!    
 There's the list for projects avaliable:
